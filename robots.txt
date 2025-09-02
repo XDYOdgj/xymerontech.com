@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xymerontech.com/sitemap.xml
